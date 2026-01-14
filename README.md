@@ -1,6 +1,5 @@
 # INTRODUCTION
 
-Project Summary
 This project analyzes the Mexico Toys Sales dataset to uncover sales performance, customer behavior, and product trends. Using Power BI, I designed an interactive dashboard that enables users to quickly monitor key KPIs, identify top-performing products and regions, and support data-driven business decisions.
 
 The dashboard provides a clear overview of total sales, revenue trends, and category performance, with dynamic filters that allow exploration by time, product type, and location.
